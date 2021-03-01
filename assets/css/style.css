@@ -13,3 +13,11 @@
     background-color: rgb(34, 34, 66);
     margin-top: 10px;
 }
+
+#linkHover{
+    color:white;
+}
+
+#linkHover:hover{
+    color:limegreen;
+}
