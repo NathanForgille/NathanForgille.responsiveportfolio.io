@@ -1,0 +1,15 @@
+#about-cards {
+    background-color:  rgb(34, 34, 66);
+    text-align: center;
+    width: 350px;
+    height: auto;
+    color: white;
+    margin: 10px 0px 0px 10px;
+}
+
+#portfolio-cards{
+    text-align: center; 
+    color: white; 
+    background-color: rgb(34, 34, 66);
+    margin-top: 10px;
+}
